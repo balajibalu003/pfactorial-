@@ -85,10 +85,6 @@ src/
 ✅ Mobile date picker  
 ✅ Clean, modern UI  
 
-## Optional Features (Nice-to-Haves)
 
-- ✅ Delete appointments
-- ❌ Filter appointments by doctor or patient
-- ❌ Dark mode toggle
 
 The app is ready to use and meets all the core requirements specified in the assignment! 
